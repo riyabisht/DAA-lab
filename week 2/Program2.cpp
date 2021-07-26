@@ -22,6 +22,8 @@ int binary_search(int a[],int L_b, int n,int key)
     }
     return -1;
 }
+
+
 int main()
 {
     int t;
