@@ -10,3 +10,6 @@
 1. Find no.of copies of given key
 2. Find 3 indices i, j, k such that arr[i] + arr[j] = arr[k]
 3. Find no. of pairs such that a[i] -a[j] == given key element
+
+>week 3<br>
+1.Insertion sort
