@@ -10,7 +10,7 @@ int main()
     
     int n;
     cin >> n;
-    int * arr = new int[n];
+    int * arr = new int[n];ss
     for (i = 0; i < n; i++)
     {
         cin >> arr[i];
