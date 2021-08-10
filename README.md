@@ -13,3 +13,4 @@
 
 >week 3<br>
 1. Insertion sort
+2. Selection sort
