@@ -12,4 +12,4 @@
 3. Find no. of pairs such that a[i] -a[j] == given key element
 
 >week 3<br>
-1.Insertion sort
+1. Insertion sort
