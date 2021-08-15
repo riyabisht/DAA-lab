@@ -14,3 +14,4 @@
 >week 3<br>
 1. Insertion sort
 2. Selection sort
+3. Quick Sort -(find dubplicate element present or not)
