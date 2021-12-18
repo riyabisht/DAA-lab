@@ -1,17 +1,6 @@
-# DAA-lab
->week 0<br>
-1. Linear Search<br>
+# Design and Analysis of Algorithms
 
->week 1<br>
-1. Binary Search<br>
-2. Jump Search<br>
+## How to run
 
->week 2<br>
-1. Find no.of copies of given key
-2. Find 3 indices i, j, k such that arr[i] + arr[j] = arr[k]
-3. Find no. of pairs such that a[i] -a[j] == given key element
-
->week 3<br>
-1. Insertion sort
-2. Selection sort
-3. Quick Sort -(find dubplicate element present or not)
+- run `build.sh` to regenerate the output files
+- run `pdflatex file.tex` to regenerate the `.pdf` file
